@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChanceBOT", "ChanceBOT\ChanceBOT.csproj", "{CE1C29F0-2860-45A1-A7DC-BB806505F9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1C29F0-2860-45A1-A7DC-BB806505F9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1C29F0-2860-45A1-A7DC-BB806505F9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1C29F0-2860-45A1-A7DC-BB806505F9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1C29F0-2860-45A1-A7DC-BB806505F9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D50227E-17D9-44CC-84B2-A11AED8481F3}
+	EndGlobalSection
+EndGlobal
