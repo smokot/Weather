@@ -1,6 +1,6 @@
 # Weather at now
 # Simple program for checking Weather at now moment
- ` U need to install from Nuget, but if you so lazy, in source i loaded it `
+ ` U need to install from Nuget, but if you so lazy, in source(packages) i loaded it `
 - Leaf.xNet 
 - HtmlAgilityPack
 - Fizzler
