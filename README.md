@@ -1,3 +1,3 @@
 # Weather
 Weather at now
-halo
+Simple program for checking Weather at now moment
