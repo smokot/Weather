@@ -15,3 +15,5 @@
 ` Select the Russian popular city ` 
 
 ![1](https://user-images.githubusercontent.com/58879890/133970986-5126bef8-f3a5-44ab-83bb-c4e200ffef86.PNG)
+
+![1](https://user-images.githubusercontent.com/58879890/133971153-12ae5e75-44da-4492-9320-e96a0b9857e8.PNG)
